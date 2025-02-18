@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Canteen2.O/static/css/main.87af0bbc.css",
-    "main.js": "/Canteen2.O/static/js/main.32f26d5e.js",
+    "main.js": "/Canteen2.O/static/js/main.0f22eb07.js",
     "index.html": "/Canteen2.O/index.html",
     "main.87af0bbc.css.map": "/Canteen2.O/static/css/main.87af0bbc.css.map",
-    "main.32f26d5e.js.map": "/Canteen2.O/static/js/main.32f26d5e.js.map"
+    "main.0f22eb07.js.map": "/Canteen2.O/static/js/main.0f22eb07.js.map"
   },
   "entrypoints": [
     "static/css/main.87af0bbc.css",
-    "static/js/main.32f26d5e.js"
+    "static/js/main.0f22eb07.js"
   ]
 }
