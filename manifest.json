@@ -1,0 +1,22 @@
+{
+  "name": "RSO Canteen",
+  "short_name": "RSO Canteen",
+  "description": "RSO Canteen Services",
+  "icons": [
+    {
+      "src": "/small.jpeg",
+      "sizes": "72x72",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/big.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
+
